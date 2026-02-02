@@ -1,2 +1,3 @@
 # GitBridge assets for department websites  
-Linked at: #398918
+
+Folders correlate to the individual sites
