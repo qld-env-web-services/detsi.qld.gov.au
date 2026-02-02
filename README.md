@@ -1,2 +1,2 @@
-# detsi.qld.gov.au
-Frontend assets for website
+# GitBridge assets for department websites  
+Linked at: #274682
